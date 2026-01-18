@@ -25,10 +25,10 @@ Hier sind einige der Technologien und Werkzeuge, mit denen ich arbeite:
 
 ### Tools & Platforms 
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white): Kenntnisreich
-- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white): Kenntnisreich
-- ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat-square&logo=miro&logoColor=050036): Kenntnisreich
 - ![WPForms](https://img.shields.io/badge/-WPForms-E27730?style=flat-square): Kenntnisreich
 - ![FluentSMTP](https://img.shields.io/badge/-FluentSMTP-0B5FFF?style=flat-square): Kenntnisreich
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white): Kenntnisreich
+- ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat-square&logo=miro&logoColor=050036): Kenntnisreich
   
 ### Andere Fähigkeiten
 - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white): Kenntnisreich
