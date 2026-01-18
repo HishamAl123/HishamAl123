@@ -23,6 +23,11 @@ Hier sind einige der Technologien und Werkzeuge, mit denen ich arbeite:
 ### Deklarative Datenbanksprache
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white): Grundkenntnisse
 
+### Tools & Platforms 
+- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white): Kenntnisreich
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white): Kenntnisreich
+- ![Miro](https://img.shields.io/badge/-Miro-FFD02F?style=flat-square&logo=miro&logoColor=050036): Kenntnisreich
+  
 ### Andere Fähigkeiten
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white): Kenntnisreich
 - ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white): Kenntnisreich
