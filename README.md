@@ -3,7 +3,7 @@
 
 ## About Me
 
-Ich bin Hisham Alkateeb, 26 Jahre alt. Ich studiere Wirtschaftsinformatik an der [OVGU Magdeburg](https://www.ovgu.de/).
+Ich bin Hisham Alkateeb, 28 Jahre alt. Ich habe meinen Bachelor in Wirtschaftsinformatik an der [OVGU Magdeburg](https://www.ovgu.de/) abgeschlossen.
 
 Ich habe umfassende Kenntnisse in verschiedenen Programmiersprachen und Technologien erworben und bin besonders an der Entwicklung von Webanwendungen interessiert.
 
